@@ -62,7 +62,7 @@ graph TD
 
 ### 1. Clone & Core Setup
 ```bash
-git clone https://github.com/Praneesh-Gattadi/YOUTUBE-AI-SUMMARIZER.git
+git clone https://github.com/Manikanta-Gattadi/YOUTUBE-To-Article.git
 cd YOUTUBE-AI-SUMMARIZER
 
 # Create and Activate Venv (Recommended)
